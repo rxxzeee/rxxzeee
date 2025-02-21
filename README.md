@@ -18,3 +18,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=f3f3f3)](https://www.linkedin.com/in/vladislav-salatenko-98240a31a/)
 [![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=f3f3f3)](https://www.instagram.com/rxxzeee?igsh=MTg2Z2U5Njh3cmw%3D&utm_source=qr)
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=f3f3f3)](https://t.me/themostcursedenemy)
+[![Website](https://img.shields.io/badge/Website-090909?style=for-the-badge)](https://rxxzeee.github.io/Blogaboutme/index.html)
