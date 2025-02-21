@@ -1,7 +1,7 @@
 # Welcome on my GitHub page
 
 ## I`m Junior Software Engineer
-![- I like work with desktop apps and projects](# "style:'display: block; margin: auto;'")
+- I like work with desktop apps and projects
 - I can write front-end using React
 - I free for job
 - Adaptivity and teamwork person
